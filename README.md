@@ -1,6 +1,6 @@
 
 <div align="center">
-  <p>Olá, estou atualmente estudando HTML com o professor Guanabara!</p>
+  <h2>Olá, estou atualmente estudando HTML com o professor Guanabara!</h2>
   </div>
 <div align="center">
   <a href="https://github.com/willisilvas">
